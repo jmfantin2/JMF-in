@@ -5,9 +5,11 @@ TBD, personal blog and interactive resume
 
 ### components
 
+### brAInerz
+
 ### blog:
 
 #### case studies
 #### technical
-#### anthro
+#### behavior
 #### wonder
